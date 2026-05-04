@@ -1,0 +1,7 @@
+=== Logging started at 20250930-153554 for experiment 'TestPerception' ===
+=== Logging started at 20250930-154002 for experiment 'TestPerception' ===
+=== Logging started at 20250930-154348 for experiment 'TestPerception' ===
+=== Logging started at 20250930-161115 for experiment 'TestPerception' ===
+=== Logging started at 20250930-161255 for experiment 'TestPerception' ===
+=== Logging started at 20250930-161634 for experiment 'TestPerception' ===
+=== Logging started at 20251004-102429 for experiment 'TestPerception' ===
